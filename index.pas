@@ -34,4 +34,5 @@ begin
   Readln(Text);
 
   Palindrome(Text);
+  Readln(Text);
 end.

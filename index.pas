@@ -34,5 +34,7 @@ begin
   Readln(Text);
 
   Palindrome(Text);
+  
+  Write('Napište cokoliv pro zavření');
   Readln(Text);
 end.
